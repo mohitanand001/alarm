@@ -4,6 +4,7 @@
   #include <graphics.h>
   #include <math.h>
   #include <dos.h>
+  #include <asa.h>
 
   int main() {
         /* request auto detection */
